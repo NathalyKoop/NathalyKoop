@@ -4,7 +4,7 @@
 - :heart: Bootcamp Santander 2024 - Backend com Java
 - 😄 Pronomes: ela / dela
 
-<img heigh>-"180cm" ![NathalyKoop GitHub stats](https://github-readme-stats.vercel.app/api?username=NathalyKoop&show_icons=true&theme=ambient_gradient)
+<img heigh>- "180cm"![NathalyKoop GitHub stats](https://github-readme-stats.vercel.app/api?username=NathalyKoop&show_icons=true&theme=ambient_gradient)
 
 
 <div align="right">
