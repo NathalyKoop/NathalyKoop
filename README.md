@@ -6,14 +6,14 @@
 
 
 <p alinhar = "centro">
-  <img src = "https://github-readme-stats.vercel.app/api?username=kakacordovil&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kakacordovil&hide=css,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=NathalyKoop&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NathalyKoop&hide=css,html&theme=tokyonight">
 </p>
 
 
 <div alinhar="centro">
 <h2>Vamos codificar!!!</h2>
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200px" />
 </span>
 
 <div align="center">
