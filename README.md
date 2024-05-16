@@ -13,8 +13,7 @@
 
 </span>
 
-
 <div align="center">
-<img src="https://github.com/NathalyKoop/NathalyKoop/assets/168307469/d5b00bb6-2bde-4f45-80c6-33e499d8b039" width="700px" />
+<img src="https://github.com/NathalyKoop/NathalyKoop/assets/168307469/d5b00bb6-2bde-4f45-80c6-33e499d8b039" width="500px" />
 </div>
 
