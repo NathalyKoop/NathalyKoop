@@ -7,7 +7,7 @@
 <img heigh>- "180cm"![NathalyKoop GitHub stats](https://github-readme-stats.vercel.app/api?username=NathalyKoop&showicons=true&theme=ambient_gradient)
 
 
-<div align="right">
+<div heigh ="right">
 <img src="https://github.com/NathalyKoop/NathalyKoop/assets/168307469/d5b00bb6-2bde-4f45-80c6-33e499d8b039" width="400px" />
 </div>
 
