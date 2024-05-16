@@ -4,7 +4,7 @@
 - :heart: Bootcamp Santander 2024 - Backend com Java
 - 😄 Pronomes: ela / dela
 - 
-<p align = "center">
+<div align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=NathalyKoop&show_icons=true&theme=ambient_gradient&line_height=40">
 
 <div heigh 90 ="right">
