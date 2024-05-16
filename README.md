@@ -6,7 +6,7 @@
 
 
 <p alinhar = "centro">
-  <img src = "https://github-readme-stats.vercel.app/api?username=NathalyKoop&show_icons=true&theme=ambient_gradient=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=NathalyKoop&show_icons=true&theme=ambient_gradient=50">
 
 
 
