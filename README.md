@@ -16,3 +16,5 @@
 <h2>Vamos codificar!!!</h2>
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200px" />
 </span>
+![Snake animation](https://github.com/NathalyKoop/NathalyKoop/blob/main/README.md)
+
