@@ -1,5 +1,6 @@
 ### Olá! Sou a Nathaly 👋
 
+<div align = "center">
 - 🌱 Estudando Java
 - :heart: Bootcamp Santander 2024 - Backend com Java
 - 😄 Pronomes: ela / dela
