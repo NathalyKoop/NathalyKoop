@@ -3,9 +3,7 @@
 <div align = "center">
  
 Me considero uma entusiasta, por tudo que envolva tecnologia :computer:
- 
-<div align = "center">
- 
+
 -🌱 Estudando Java
 -:heart: Bootcamp Santander 2024 - Backend com Java
  
