@@ -1,4 +1,4 @@
-## Olá! Sou a Nathaly👋
+:## Olá! Sou a Nathaly👋:
  
 <div align = "center">
  
