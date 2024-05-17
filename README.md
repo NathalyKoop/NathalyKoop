@@ -1,10 +1,11 @@
-<div align = center > ### Olá! Sou a Nathaly 👋
+ ### *Olá! Sou a Nathaly*👋
 
+Me considero uma entusiasta, por tudo que envolva tecnologia 
 <div align = "center">
 - 🌱 Estudando Java
 - :heart: Bootcamp Santander 2024 - Backend com Java
-- 😄 Pronomes: ela / dela
-- 
+- 😄 Pronomes: ela / dela-
+ 
 <div align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=NathalyKoop&show_icons=true&theme=ambient_gradient&line_height=40">
 
