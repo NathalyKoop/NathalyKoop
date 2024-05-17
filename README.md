@@ -1,4 +1,4 @@
-### Olá! Sou a Nathaly 👋
+<div align = center >### Olá! Sou a Nathaly 👋
 
 <div align = "center">
 - 🌱 Estudando Java
