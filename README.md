@@ -1,4 +1,4 @@
-### OLÁ! Sou a Nathaly 👋
+### Olá! Sou a Nathaly 👋
 
 - 🌱 Estudando Java
 - :heart: Bootcamp Santander 2024 - Backend com Java
