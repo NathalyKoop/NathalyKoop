@@ -1,7 +1,8 @@
  ### *Olá! Sou a Nathaly*👋
  
 <div align = "center">
-Me considero uma entusiasta, por tudo que envolva tecnologia 
+ 
+Me considero uma entusiasta, por tudo que envolva tecnologia :computer:
  
 <div align = "center">
  
