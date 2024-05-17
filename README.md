@@ -4,8 +4,8 @@
  
 Me considero uma entusiasta, por tudo que envolva tecnologia :computer:
 
--🌱 Estudando Java |
-- | Bootcamp Santander 2024 - Backend com Java :heart:
+
+Estudando Java 🌱  | Bootcamp Santander 2024 - Backend com Java :heart: 
  
 <div align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=NathalyKoop&show_icons=true&theme=ambient_gradient&line_height=40">
